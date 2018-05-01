@@ -1,3 +1,3 @@
 # hello-world
-# Hi Humans!
+Hi humans!
 Test Repository
